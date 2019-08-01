@@ -11,7 +11,7 @@ string = """
 """
 
 # Print out the JSON sample
-print("This is a TEST from Marcelo\n " + string)
+print("This is a TEST from Marcelo Tok\n " + string)
 
 # Load the data into a JSON object
 json_data = json.loads(string)
