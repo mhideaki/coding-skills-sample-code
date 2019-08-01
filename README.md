@@ -16,4 +16,4 @@ These samples are for public consumption, so you must ensure that you have the r
 
 * If you'd like to contribute examples for an existing lab, refer to [contributing.md](contributing.md).
 * If you're interested in creating a new Cisco DevNet Learning Lab or code example, please contact a DevNet administrator for guidance.
-
+[![Build Status](https://travis-ci.org/mhideaki/coding-skills-sample-code.svg?branch=master)](https://travis-ci.org/mhideaki/coding-skills-sample-code)
